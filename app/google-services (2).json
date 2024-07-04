@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655715070917",
+    "project_id": "tucash-e71cb",
+    "storage_bucket": "tucash-e71cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655715070917:android:c2f93f0fb5d5d73ce191ac",
+        "android_client_info": {
+          "package_name": "com.vince.tucash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655715070917-v9og0cjovfq8ck5g48djpmib0lh2cju6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyPj-B1sVx_YeoBiugqwhlLB4fJv7u_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655715070917-v9og0cjovfq8ck5g48djpmib0lh2cju6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

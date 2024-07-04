@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/buyAirtime"
+        android:title="@string/buy_airtime"
+        android:icon="@drawable/monetization"
+        />
+    <item
+        android:id="@+id/payBill"
+        android:title="@string/paybill"
+        android:icon="@drawable/monetization"
+        />
+    <item
+        android:id="@+id/withDraw"
+        android:title="@string/withdraw_to_mobile_money"
+        android:icon="@drawable/monetization"
+        />
+
+    <item
+        android:id="@+id/tuCash"
+        android:title="@string/podPAY_to_podPAY"
+        android:icon="@drawable/monetization"
+        />
+
+    <item
+        android:id="@+id/bank"
+        android:title="@string/send_to_bank"
+        android:icon="@drawable/monetization"
+        />
+
+
+
+</menu>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/lightGray"
+    tools:context=".fragments.PopUpFragment">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/podPAY"
+        android:fontFamily="@font/alba2"
+        android:textColor="@color/orangeRed"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true"
+        />
+    <Button
+        android:id="@+id/payBillBtn"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_button1"
+        android:text="@string/paybill"
+        android:layout_marginTop="35dp"
+        style="?android:attr/buttonBarButtonStyle"
+        android:textColor="@color/white"
+        />
+    <Button
+        android:id="@+id/buyGoodsBtn"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:background="@drawable/shape_button1"
+        android:text="@string/buy_goods"
+        android:layout_marginTop="35dp"
+        style="?android:attr/buttonBarButtonStyle"
+        android:textColor="@color/white"
+        />
+</RelativeLayout>
